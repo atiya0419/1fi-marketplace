@@ -82,7 +82,7 @@ The application includes a bottom navigation bar with:
 - Expo Vector Icons
 
 
-Installation
+### Installation
 
 1. Clone the repository
 

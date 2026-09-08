@@ -121,8 +121,9 @@ Project Structure
 ├── package.json
 │
 └── README.md
+exit
 
-### Application Flow
+Application Flow
    1.The user opens the application.
    2.The user can navigate between Home, Shop, EMI Dues, Limit, and Profile.
    3.Products are loaded through the product service.

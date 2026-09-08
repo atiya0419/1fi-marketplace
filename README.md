@@ -117,28 +117,6 @@ You can run the application using:
 3. iOS Simulator
 4. Web browser
 
-## Project Structure
-
-```text
-1fi-marketplace/
-│
-├── api/
-│   └── productService.ts
-│
-├── app/
-│   └── index.tsx
-│
-├── data/
-│   └── products.ts
-│
-├── assets/
-│   └── images/
-│
-├── package.json
-│
-└── README.md
-```
-
 ## Application Flow
 
 1. The user opens the application.

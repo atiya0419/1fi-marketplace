@@ -137,7 +137,6 @@ You can run the application using:
 ├── package.json
 │
 └── README.md
-```
 
 ## Application Flow
 

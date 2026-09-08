@@ -81,29 +81,45 @@ The application includes a bottom navigation bar with:
 - React Native Safe Area Context
 - Expo Vector Icons
 
+````md
 ## Installation
 
+### 1. Clone the repository
+
 ```bash
-1. Clone the repository
 git clone https://github.com/atiya0419/1fi-marketplace.git
+````
 
-2. Navigate to the project folder
+### 2. Navigate to the project folder
+
+```bash
 cd 1fi-marketplace
+```
 
-3. Install dependencies
+### 3. Install dependencies
+
+```bash
 npm install
+```
 
-4. Start the Expo development server
+### 4. Start the Expo development server
+
+```bash
 npx expo start
+```
 
-5. Run the application
+### 5. Run the application
+
 You can run the application using:
+
 1. Expo Go on a mobile device
 2. Android Emulator
 3. iOS Simulator
 4. Web browser
 
-Project Structure
+## Project Structure
+
+```text
 1fi-marketplace/
 │
 ├── api/
@@ -121,31 +137,41 @@ Project Structure
 ├── package.json
 │
 └── README.md
+```
 
-Application Flow
-   1.The user opens the application.
-   2.The user can navigate between Home, Shop, EMI Dues, Limit, and Profile.
-   3.Products are loaded through the product service.
-   4.The user can browse available products in the Marketplace.
-   5.The user selects a product to view its details.
-   6.The user can view multiple product images.
-   7.The user selects a product variant.
-   8.The user selects an EMI plan.
-   9.The application validates the selections.
-   10.A confirmation message is displayed after successful selection.
+## Application Flow
 
-### Key Functionality
-   1.Product loading using an API service
-   2.Loading and error handling
-   3.Product detail view
-   4.Multiple product images
-   5.Full-screen image viewer
-   6.Swipeable product images
-   7.Product variant selection
-   8.EMI plan selection
-   9.Input validation
-   10.Bottom tab navigation
-   11.Responsive React Native UI
+1. The user opens the application.
+2. The user can navigate between Home, Shop, EMI Dues, Limit, and Profile.
+3. Products are loaded through the product service.
+4. The user can browse available products in the Marketplace.
+5. The user selects a product to view its details.
+6. The user can view multiple product images.
+7. The user selects a product variant.
+8. The user selects an EMI plan.
+9. The application validates the selections.
+10. A confirmation message is displayed after successful selection.
 
-Author
-Atiya Aymen
+## Key Functionality
+
+1. Product loading using an API service
+2. Loading and error handling
+3. Product detail view
+4. Multiple product images
+5. Full-screen image viewer
+6. Swipeable product images
+7. Product variant selection
+8. EMI plan selection
+9. Input validation
+10. Bottom tab navigation
+11. Responsive React Native UI
+
+## Author
+
+**Atiya Aymen**
+
+```
+```
+
+
+

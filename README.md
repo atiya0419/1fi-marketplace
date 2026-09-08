@@ -81,10 +81,10 @@ The application includes a bottom navigation bar with:
 - React Native Safe Area Context
 - Expo Vector Icons
 
-````md
-## Installation
 
-### 1. Clone the repository
+Installation
+
+1. Clone the repository
 
 ```bash
 git clone https://github.com/atiya0419/1fi-marketplace.git

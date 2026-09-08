@@ -84,7 +84,7 @@ The application includes a bottom navigation bar with:
 
 ### Installation
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/atiya0419/1fi-marketplace.git

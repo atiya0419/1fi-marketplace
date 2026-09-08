@@ -122,7 +122,7 @@ Project Structure
 │
 └── README.md
 
-Application Flow
+### Application Flow
    1.The user opens the application.
    2.The user can navigate between Home, Shop, EMI Dues, Limit, and Profile.
    3.Products are loaded through the product service.
@@ -134,7 +134,7 @@ Application Flow
    9.The application validates the selections.
    10.A confirmation message is displayed after successful selection.
 
-Key Functionality
+### Key Functionality
    1.Product loading using an API service
    2.Loading and error handling
    3.Product detail view

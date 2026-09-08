@@ -121,7 +121,6 @@ Project Structure
 ├── package.json
 │
 └── README.md
-exit
 
 Application Flow
    1.The user opens the application.
